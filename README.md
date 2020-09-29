@@ -1,4 +1,4 @@
-# Intro to data visualization (Base R) - Week 8
-repo contains starter code and any associated data for week 8
+# Intro to data visualization (Base R) and data reshaping (dplyr) - Week 6
+repo contains starter code and any associated data for week 6
 
 ## overview of topics
