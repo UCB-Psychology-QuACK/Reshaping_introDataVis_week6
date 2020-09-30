@@ -17,7 +17,11 @@ library(tidylog)
 
 
 #### Read in data ####
-### NOTE: Our collaborators have generously allowed me to use these data for teaching purposes. Please do not share these data with anyone!
+# Data collected by Melina Uncapher and the Project iLead Network, with funding from an NSF Science of Learning Grant.
+## NOTE: These data are not yet published. Our collaborators have generously allowed me to use this data set for teaching purposes. Please do not share these data with anyone!
+## Data were collected to study EF development, as well as ask questions linking EFs to math and reading ability, plus many other questions.
+## We have data for over 1,000 kids at 4 time points!
+
 source.folder <- "data/"
 
 # Read in these three CSV files.
